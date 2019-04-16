@@ -1,4 +1,4 @@
-package com.gremlininc.failure;
+package com.gremlin.failure;
 
 /**
  * An implementation of {@link Failure} which causes a delay by sleeping for the
@@ -17,7 +17,6 @@ public class Delay implements Failure {
         try {
             Thread.sleep(length);
         } catch (InterruptedException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }
