@@ -21,7 +21,7 @@ We are looking for:
 1. Project organization
 1. Any documentation necessary to run and evaluate the program
 
-Our goal is for this project to not take a burdensome amouont of time. Please include in your submission how long you spent doing this exercise so we can adjust it as appropriate.
+A goal is for this project to not take a burdensome amouont of time. Please include in your submission how long you spent doing this exercise so we can adjust it as appropriate.
 
 # Submission
 
