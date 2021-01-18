@@ -23,6 +23,10 @@ We are looking for:
 
 Our goal is for this project to not take a burdensome amouont of time. Please include in your submission how long you spent doing this exercise so we can adjust it as appropriate.
 
+# Submission
+
+When complete, please provide a link to your projects GitHub repo (or public source control service of choice). You can do this by replying to the email from the recruiting team or emailing recruiting@gremlin.com.
+
 # Other Notes
 If you have any questions, please reach out to recruiting@gremlin.com.
 
