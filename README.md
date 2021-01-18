@@ -1,18 +1,31 @@
-## TODO
+# Sr. Software Engineer Coding Exercise
 
-The goal of this exercise is to test your backend coding abilities along with your
-critical thinking and design skills. The task at hand is to build a skeleton failure
-injection library in Java. It already supports the ability to inject a delay as
-an example of how to implement failure. You should add the ability to throw an exception
-as a failure mode.
+# Summary
+Write a Java command line program `quotely` which takes as an argument `English` or `Russian` and returns a quote from the forismatic API with the correct language.
+If a language is not specified, default to English.
 
-In addition you should create a simple API for your library, and provide simple
-tests which exercise the key functionality. Keep in mind that Simplicity is one
-of our guiding tenets and that this API should be relatively low-touch for customers.
+# Instructions
 
-There are three basic files included in this repository (`GremlinContext.java`,
-`Failure.java` and `Delay.java`) which you can use as a starting point, or feel
-free to go your own way.
+Please write a java program which 
+1. Operates on the command line
+1. Accepts a language as an argument (either `English` or `Russian`)
+1. Fetches results from the forismatic.com quote api (http://forismatic.com/en/api/)
+1. Displays to stdout the quote and author
 
-Best of luck, and please feel free to send any questions to
-[recruiting@gremlin.com](mailto:recruiting@gremlin.com?subject=Backend%20Code%20Sample).
+# Evaluation Criteria
+
+We are looking for:
+
+1. Simple, easy to understand code
+1. Runnable test suite
+1. Project organization
+1. Any documentation necessary to run and evaluate the program
+
+Our goal is for this project to not take a burdensome amouont of time. Please include in your submission how long you spent doing this exercise so we can adjust it as appropriate.
+
+# Other Notes
+If you have any questions, please reach out to recruiting@gremlin.com.
+
+If you spend more than 2 hours on this, feel free to submit partial work. We want to be respectful of people's time commitments, and we can learn a lot about your work even if it's incomplete.
+
+Please take care not to hammer this public API. Be kind.
