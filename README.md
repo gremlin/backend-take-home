@@ -12,6 +12,14 @@ Please write a java program which
 1. Fetches results from the forismatic.com quote api (http://forismatic.com/en/api/)
 1. Displays to stdout the quote and author
 
+# Time Limit
+
+We want to balance the value of coding exercises with the time obligation that we ask of our candidates. Please limit your time investment to two hours. If as you approach 2 hours, you find you are not almost done, document what remaining steps you would complete given more time, and submit your partial work.
+
+# External Libraries
+
+You may use any external library you wish, but please do not use this or https://github.com/VEINHORN/forismatic-api-java similar client libraries which reduce the exercise to a couple API calls. This limits the utility of the exercise.
+
 # Evaluation Criteria
 
 We are looking for:
